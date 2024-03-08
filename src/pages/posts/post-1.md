@@ -1,17 +1,14 @@
 ---
-title: "My First Blog Post"
+layout: ../../layouts/MarkdownPostLayout.astro
+title: "First"
 pubDate: 2024-08-03
 description: "This is the first blog post of my new Astro blog"
 author: "Jay Khan"
 image:
-  url: "https://docs.astro.build/assets/full-logo-light.png"
+  url: "https://media.graphassets.com/syGZtRASuCkcyB4cp8Gt"
   alt: "The full Astro logo"
 tags: ["astro", "blogging", "learning in public"]
 ---
-
-# My First Blog Post
-
-Published on: 2024-08-03
 
 Welcome to my _new blog_ about learning astro! Here I will share my learning journey as I build a new website.
 
